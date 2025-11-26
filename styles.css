@@ -1,5 +1,9 @@
 h1{
+<<<<<<< HEAD:styles.css
     font-size: 36px;
+=======
+    font-size: 72px;
+>>>>>>> 17c627c28ee6dfc182afa537f5c6298568a7406b:style.css
     color: red;
     text-align: center;
     margin-bottom: 20px; 
